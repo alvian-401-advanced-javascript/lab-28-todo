@@ -5,7 +5,7 @@
 ### Links and Resources
 * [repo](https://github.com/alvian-401-advanced-javascript/lab-28-todo)
 * [Practice](https://codesandbox.io/s/28-starter-code-practice-3gvjv)
-* [IoDo](https://codesandbox.io/s/romantic-lichterman-lbxx3)
+* [ToDo](https://codesandbox.io/s/romantic-lichterman-lbxx3)
 
 #### Tests
 TBD
